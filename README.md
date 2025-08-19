@@ -61,8 +61,6 @@ Você pode executar a aplicação através da sua IDE ou via linha de comando co
 mvn spring-boot:run
 ```
 A aplicação iniciará e o menu interativo será exibido no console.
-👨‍💻 Autor
-John Miguel Da Silva Fernandes
 
 
 ```bash
